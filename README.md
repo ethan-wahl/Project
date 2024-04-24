@@ -14,7 +14,7 @@ Techniques
 4. Random Generation: Random numbers are used to spawn obstacles at random positions and intervals.
 5.Score Tracking: The game tracks the player's score, which increases each time an obstacle is successfully avoided.
 
-
+Description of my process
 1. I learned that creating a game is fun but very tricky trying to figure out all the small problems in coding.
 2. I have tried everything known to man, I tried to get help, SimpleGE still wont work. That was most of my struggles but also figuring how to get objects to do what you want them to do.
 3. I would like to improve the obstacles to make them trees, but without being bale to actually see the game run i figured i should just leave them as squares.
